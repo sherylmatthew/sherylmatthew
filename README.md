@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sheryl! 👋
 
-<!--
-**sherylmatthew/sherylmatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student and full-stack developer.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on a student performance predictor project  
+- 🌱 Learning Machine Learning and Deep Learning  
+- 💻 Experienced in Java, Python, JavaScript, and Web Development  
+- 📫 Reach me at sheryl@example.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Programming Languages: Java, Python, JavaScript  
+- Web Development: HTML, CSS, React, Node.js  
+- Data Science: Pandas, Scikit-learn, TensorFlow
+
+### Projects
+
+- [Student Performance Predictor](https://github.com/Sheryl123/student-performance-predictor)  
+- [Personal Portfolio Website](https://github.com/Sheryl123/portfolio-website)
+
+Thanks for stopping by! 😊
