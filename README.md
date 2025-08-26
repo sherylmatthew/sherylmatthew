@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/sheryl-mathew-079b43253/">
   <img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="https://www.instagram.com/sheryllxx_/">
-  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM/">
+  <img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
 </a>
 <a href="mailto:sherylmatthew19@gmail.com">
   <img align="left" alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
@@ -48,7 +48,7 @@
 
 ## 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherylmatthew&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
